@@ -57,29 +57,6 @@ To run this project locally, follow these steps:
 - **Tailwind CSS**: Utility-first CSS framework.
 - **Framer Motion**: Library for animations and gestures in React.
 
-## Folder Structure
-
-my-portfolio/
-├── public/
-│ ├── index.html
-│ └── ...
-├── src/
-│ ├── components/
-│ │ ├── Navbar.js
-│ │ ├── Hero.js
-│ │ ├── About.js
-│ │ ├── Technologies.js
-│ │ ├── Experience.js
-│ │ ├── Projects.js
-│ │ └── Contact.js
-│ ├── App.js
-│ ├── index.js
-│ └── ...
-├── .gitignore
-├── package.json
-└── README.md
-
-
 ## Contributing
 
 Feel free to submit issues or pull requests if you have suggestions or improvements.
