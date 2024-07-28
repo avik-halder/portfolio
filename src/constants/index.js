@@ -68,8 +68,8 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["React", "Tailwind", "Framer Motion"],
-    live: null,
-    link: "https://github.com/avik-halder/CakriHUT.git",
+    live: "https://avik-halder.vercel.app/",
+    link: "https://github.com/avik-halder/portfolio.git",
   },
   {
     title: "Campus Network System",
