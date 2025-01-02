@@ -50,7 +50,7 @@ export const PROJECTS = [
     image: project1,
     description:
       "CakriHUT is a job portal website built using React and FastAPI. The platform supports multiple user roles, including super admin, admin, and normal users. Users can apply for jobs, search for job openings, and post job opportunities.",
-    technologies: ["React", "BootStrap", "Node.js", "FastAPI"],
+    technologies: ["React", "BootStrap", "FastAPI", "MySQL", "JWT"],
     live: null,
     link: "https://github.com/avik-halder/CakriHUT.git",
   },
