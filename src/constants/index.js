@@ -3,6 +3,7 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 import project5 from "../assets/projects/project-5.jpg";
+import project6 from "../assets/projects/project-6.jpg";
 
 export const LINES = ["Designer", "Full Stack Developer", "Programmer"];
 
@@ -35,6 +36,15 @@ export const EXPERIENCES = [
 ];
 
 export const PROJECTS = [
+  {
+    title: "Khida Lagse",
+    image: project6,
+    description:
+    "Khida Lagse is a restaurant management system built using React and FastAPI. It features a user panel for food ordering, an admin panel for managing food items and orders, and delivery tracking with OTP verification.",
+      technologies: ["React", "BootStrap", "FastAPI", "SQLite", "JWT"],
+    live: null,
+    link: "https://github.com/avik-halder/Khida-Lagse.git",
+  },
   {
     title: "CakriHUT",
     image: project1,
