@@ -1,6 +1,6 @@
 import React from 'react'
 import {motion} from "framer-motion"
-import aboutPic from "../assets/avik2.png"
+import aboutPic from "../assets/avik2.jpg"
 import { ABOUT_TEXT } from "../constants/index"
 const About = () => {
   return (
