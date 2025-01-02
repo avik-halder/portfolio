@@ -22,7 +22,7 @@ const About = () => {
             >
                 <div className="flex items-center justify-center">
                     <img src={aboutPic} alt="Avik Halder" width='325px'
-                        height='325px' className='mb-5 mask-image'/>
+                        height='325px' className='mb-5 mask-image rounded-t-2xl'/>
                 </div>
             </motion.div>
                 <motion.div 
