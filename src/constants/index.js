@@ -27,7 +27,7 @@ export const EXPERIENCES = [
     technologies: ["Communication", "Web Dev", "Soft. Dev","Networking"],
   },
   {
-    year: "May 2023 - Present",
+    year: "May 2023 - August 2024",
     role: "Executive Member",
     company: "BDU Steam Club",
     description: `One of the most successfull club of Bangabandhu Sheikh Mujibur Rahman Digital University, Bangladesh. Coordinated and managed tech events, workshops and facilitated communication between club members and university administration.`,
